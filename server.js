@@ -19,7 +19,7 @@ app.post('/send-otp', (req, res) => {
     service: 'gmail',
     auth: {
       user: 'esmatrealmuslim@gmail.com',
-      pass: 'xsed ycej enls oqgc',
+      pass: 'wdjv nwnc uupa zvgc',
     },
   });
   const mailOptions = {
